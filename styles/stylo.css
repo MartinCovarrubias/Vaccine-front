@@ -1,0 +1,303 @@
+.vaccine{
+    position: relative;
+     left: 80px; 
+     
+}
+
+.database{
+    position: relative;
+     left: 390px;
+     
+}
+h1{
+ 
+    font-weight: bold;
+    font-size: 25px;
+    color: #2243c3;
+   
+  
+}
+
+h2{
+    font-weight: bold;
+    font-size: 15px;
+    color:   #7e8ca2;
+   
+    
+}
+
+.backgroundNav{
+    background-color: #e7f2fc;
+    
+    background-image: linear-gradient(to right, #ffffff -1%, #e7f2fc 10%, #e7f2fc 80%, #e7f2fc 100%);
+    
+}
+
+.education{
+    position: relative; right: 30px;
+}
+
+.news{
+    position: relative; left: 20px;
+}
+
+.regulation{
+    position: relative; left: 70px;
+}
+
+.hoax{
+    position: relative; left: 120px;
+}
+
+.fight{
+ 
+    font-weight: bold;
+    font-size: 55px;
+    color: #2243c3;
+    text-align: left;
+    position: relative; left: 110px;
+    position: relative; top: 110px;
+   
+}
+
+.let{
+    position: relative; left: 110px; 
+    position: relative; top: 130px;
+    color: #7f8ca0;
+    font-size: 20px;
+}
+
+.security{
+    position: relative; left: 110px; 
+    position: relative; top: 170px;
+    
+}
+
+.icon{
+    color: #ffcf13;
+}
+
+.best{
+    color: #1c3f7c;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.selected{
+    position: relative; left: 330px; 
+    position: relative; top: 143px;
+    
+}
+
+.shedule{
+    
+        position: relative; left: 110px; 
+        position: relative; top: 230px;
+    
+}
+
+.textshedule{
+    color: #1c3f7c;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 885px;
+    height: 100px;
+    position: relative; left: -132px;
+    position: relative; top: -130px;
+    opacity: 95%;
+    box-shadow: 0px 5px 0px 0px rgba(65, 98, 243, 0.2);
+}
+ 
+.location{
+    position: relative; left: 30px;
+    position: relative; top: 15px;
+}
+
+.textLocation{
+    color: #7f8ca0;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.iconcard{
+    color:#1c3f7c;
+    
+}
+
+.date{
+    position: relative; left: 280px;
+    position: relative; top: -9px;
+}
+
+.vaccinetype{
+    position: relative; left: 500px;
+    position: relative; top: -35px;
+}
+
+.submit{
+    position: relative; left: 680px;
+    position: relative; top: -27px;
+}
+
+.button{
+    width: 150px;
+    position: relative; top: -20px;
+
+}
+
+.jakarta{
+    position: relative; left: 50px;
+    position: relative; top: -49px;
+}
+.jakartatext{
+    color: #1c3f7c;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.july{
+    position: relative; left: 300px;
+    position: relative; top: -82px;
+}
+
+.modernaa{
+    position: relative; left: 520px;
+    position: relative; top: -115px;
+}
+
+.aztra{
+   
+    height: 150px;
+    opacity: 0.1;
+    position: relative; left: 80px;
+    position: relative; top: -20px;
+
+}
+
+.sinovac{
+   
+    height: 26px;
+    opacity: 0.1;
+    position: relative; left: 180px;
+    position: relative; top: 0px;
+
+}
+
+.pfizer{
+    height: 65px;
+    opacity: 0.1;
+    position: relative; left: 290px;
+    position: relative; top: -5px;
+}
+
+.moderna{
+    opacity: 0.1;
+    position: relative; left: 410px;
+    position: relative; top: -5px;
+}
+
+footer{
+    background-color: #eef3ff;
+    position: relative; top: 20px;
+}
+
+.about{
+    position: relative; left: 160px;
+    position: relative; top: -50px;
+}
+
+.company{
+    position: relative; left: 130px;
+    position: relative; top: -50px;
+}
+
+.support{
+    position: relative; left: 120px;
+    position: relative; top: -50px;
+}
+
+.foot{
+    position: relative; top: -40px;
+}
+
+.why{
+    color: #1c3f7c;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.card1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+   
+    position: relative; left: 5px;
+    position: relative; top: 40px;
+    opacity: 95%;
+    box-shadow: 0px 5px 0px 0px rgba(7, 7, 7, 0.2);
+
+}
+
+.card2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+   
+    position: relative; left: 5px;
+    position: relative; top: 40px;
+    opacity: 95%;
+    box-shadow: 0px 5px 0px 0px rgba(7, 7, 7, 0.2);
+
+}
+
+.card3{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+   
+    position: relative; left: 5px;
+    position: relative; top: 40px;
+    opacity: 95%;
+    box-shadow: 0px 5px 0px 0px rgba(7, 7, 7, 0.2);
+
+}
+
+.card4{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+   
+    position: relative; left: 5px;
+    position: relative; top: 40px;
+    opacity: 95%;
+    box-shadow: 0px 5px 0px 0px rgba(7, 7, 7, 0.2);
+
+}
+
+.button1{
+    width: 150px;
+    position: relative; top: -20px; left: 20px;
+    background-color:#f1f5ff;
+}
+
+
+.button2{
+    width: 150px;
+    position: relative; top: 40px; left: 5px;
+    background-color:#2949c7;
+}
+
+
+.button3{
+    width: 150px;
+    position: relative; top: 20px; left: 5px;
+    background-color:#f1f5ff;
+}
+
+
+.button4{
+    width: 150px;
+    position: relative; top: -20px; left: 20px;
+    background-color:#f1f5ff;
+}
